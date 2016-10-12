@@ -1,0 +1,107 @@
+div {
+	border-radius: 5px;
+}
+
+#header {
+	z-index: 1;
+	position: fixed;
+	width: 99%;
+	margin-top: -20px;
+	height: 160px;
+	background-color: #D2B48C;
+	margin-bottom: 10px;
+}
+
+#name {
+	float:left;
+	margin-left: 10px;
+	padding-top: 5px;
+	font-size: 36px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+
+}
+
+#email{
+	float:right;
+	margin-right: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+
+h4 {
+	margin-left: 5px;
+	margin-bottom: 15px;
+	font-family: Verdana, sans-serif;
+}
+
+.right p {
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: -10px;
+	font-family: Garamond, serif;
+	color: white;
+}
+
+li {
+	list-style-type: square;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+.left {
+	position: relative;
+	float: left;
+	margin-top: 200px;
+	width: 20%;
+	height: 400px;
+	background-color: #F4A460;
+	margin-bottom: 10px;
+}
+
+.right {
+	position: relative;
+	float: right;
+	margin-top: 200px;
+	width: 78%;
+	height: 450px;
+	margin-bottom: 10px;
+	color: white;
+}
+
+#footer {
+	position: relative;
+	height: 50px;
+	background-color: #DEB887;
+	clear: both;
+	font-family: Verdana, sans-serif;
+	font-size: 14px;
+	text-align: center;
+	color: #000000;
+}
+
+#footer p {
+	position: relative;
+	padding-top: 15px;
+}
+#header img {
+	position: relative;
+	float: left;
+	height: 140px;
+	width: 140px;
+	padding-top: 5px;
+	margin-left: 10px;
+
+}
+body {
+	background-image: url(http://i0.wp.com/www.templateof.com/postpic/2014/09/cool-backgrounds-red-black-and-white_213807.jpg);
+	background-repeat: no-repeat;	
+}
+.left h3{
+	text-align: center;
+	font-size: 30px;
+}
